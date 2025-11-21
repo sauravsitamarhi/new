@@ -45,7 +45,7 @@ const Footer = () => {
                                 Saurav Kumar
                             </a>
                         </li>
-                        <li>Email: sauravuseidevery@gmail.com</li>
+                        <li>Email: sauravuseide@gmail.com</li>
                     </ul>
                 </div>
             </div>
